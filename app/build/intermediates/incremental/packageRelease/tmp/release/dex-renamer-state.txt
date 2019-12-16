@@ -1,0 +1,4 @@
+#Sun Dec 15 21:26:43 MST 2019
+base.0=C\:\\Users\\xkenn\\OneDrive\\Documents\\NYU\\AppSec\\Assignments\\Assignment5\\NYU_AppSec_Assignment5\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
