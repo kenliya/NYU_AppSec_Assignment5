@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\xkenn\\OneDrive\\Documents\\NYU\\AppSec\\Assignments\\Assignment5\\NYU_AppSec_Assignment5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "outputFile": "C:\\Users\\xkenn\\OneDrive\\Documents\\NYU\\AppSec\\Assignments\\NYU_AppSec_Assignment5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
             "map": [
                 {
                     "source": "C:\\Users\\xkenn\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0358ec2cad628e8c637d9b7a3ca86d6e\\res\\values-v17\\values-v17.xml",

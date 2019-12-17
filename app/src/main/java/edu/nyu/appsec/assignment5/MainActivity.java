@@ -92,10 +92,10 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         view.setWebViewClient(new MyWebViewClient());
 
         WebSettings settings = view.getSettings();
+        settings.setJavaScriptEnabled(true);
+
         //settings.setAllowFileAccessFromFileURLs(true);
         settings.setAllowFileAccessFromFileURLs(false);
-        settings.setJavaScriptEnabled(true);
-        //settings.setJavaScriptEnabled(false);
         //settings.setAllowUniversalAccessFromFileURLs(true);
         settings.setAllowUniversalAccessFromFileURLs(false);
 

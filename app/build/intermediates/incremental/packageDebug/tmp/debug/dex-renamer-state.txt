@@ -1,7 +1,7 @@
-#Sun Dec 15 22:29:36 MST 2019
-base.0=C\:\\Users\\xkenn\\OneDrive\\Documents\\NYU\\AppSec\\Assignments\\Assignment5\\NYU_AppSec_Assignment5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+#Sun Dec 15 23:18:06 MST 2019
+base.0=C\:\\Users\\xkenn\\OneDrive\\Documents\\NYU\\AppSec\\Assignments\\NYU_AppSec_Assignment5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.1=classes.dex
 renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\xkenn\\OneDrive\\Documents\\NYU\\AppSec\\Assignments\\Assignment5\\NYU_AppSec_Assignment5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=C\:\\Users\\xkenn\\OneDrive\\Documents\\NYU\\AppSec\\Assignments\\NYU_AppSec_Assignment5\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
